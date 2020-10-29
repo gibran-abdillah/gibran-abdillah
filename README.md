@@ -1,10 +1,10 @@
 ### Hi, My name is Gibran Abdillah
-### I want to be fullstack developer 😀
+#### I want to be fullstack developer 😀
 
 
 
 
-### 📚 Languages
+#### 📚 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibran-abdillah)](https://github.com/gibran-abdillah/)
 ___
 <!--
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## **Stats**
+#### **Stats**
 ![gibran-abdillag github stats](https://github-readme-stats.vercel.app/api?username=gibran-abdillah&show_icons=true&title_color=000&icon_color=000&text_color=000)
