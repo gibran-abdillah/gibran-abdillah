@@ -1,7 +1,4 @@
-### Hi, My name is Gibran Abdillah
-#### I want to be fullstack developer 😀
-
-
+### Hello World!
 
 
 #### 📚 Languages
