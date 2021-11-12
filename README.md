@@ -1,5 +1,6 @@
-### Hey, welcome to my github Page!
-#### lets change the world by starting from Hello World!
+### Hey yo, Gibran here !
+
+I prefer to be a backend developer because i dont like css 🤣
 
 
 #### 📚 Languages
