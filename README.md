@@ -1,6 +1,5 @@
 ### Hey yo, Gibran here !
 
-I prefer to be a backend developer because i dont like css 🤣
 
 
 #### 📚 Languages
