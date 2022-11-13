@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### **Stats**
-![gibran-abdillag github stats](https://github-readme-stats.vercel.app/api?username=gibran-abdillah&show_icons=true&title_color=000&icon_color=000&text_color=000)
